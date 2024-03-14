@@ -1,1 +1,0 @@
-this is a simple project created using html css javascript by clicking on a picture it will expand
